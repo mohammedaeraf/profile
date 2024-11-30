@@ -1,0 +1,6 @@
+.round-image {
+    width: 300px; /* Set the width */
+    height: 300px; /* Set the height */
+    border-radius: 50%; /* Make the image circular */
+    object-fit: cover; 
+  }
